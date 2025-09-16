@@ -2,6 +2,9 @@
 
 A Retrieval-Augmented Generation (RAG) application designed to act as a personal tutor for university students, using their own lecture slides to provide accurate, verifiable answers and mitigate the risk of LLM hallucinations.
 
+## Video Demo
+https://github.com/user-attachments/assets/1c8ea95b-9752-40df-95f4-01471401a375
+
 ---
 
 ## The Problem
